@@ -1,0 +1,4 @@
+null,null,null,null,null,null,
+null,null,null,null,null,null,
+Ginu,Zee,Alpha,null,null,null,
+Fuel Stock : 6540.0
